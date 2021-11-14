@@ -1,4 +1,4 @@
-# Advanced Blockchain Solidity Task
+# Name Registry Solidity Task
 
 ## How to run
 
