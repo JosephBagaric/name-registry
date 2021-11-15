@@ -1,4 +1,4 @@
-# Name Registry Solidity Task
+# Name Registry
 
 ## How to run
 
